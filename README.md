@@ -1,15 +1,13 @@
 # Sıfırdan Her Yönüyle JavaScript & Node.JS Eğitimi
 
-Udemy üzerinde yayınlanan ["Sıfırdan Her Yönüyle JavaScript & Node.JS"](https://www.udemy.com/nodejs-egitimi/?couponCode=NDJS49M) adlı eğitim setinde yazılan kaynak kodları barındıran repodur.
+Udemy üzerinde yayınlanan ["Sıfırdan Her Yönüyle JavaScript & Node.JS"](http://bit.ly/nodejs_) adlı eğitim setinde yazılan kaynak kodları barındıran repodur.
 
-**Kurs Linki:** [Tıklayın](https://www.udemy.com/nodejs-egitimi/?couponCode=NDJS24M)
-
-**Kupon Kodu:** NDJS24M
+**Kurs Linki:** [Tıklayın](http://bit.ly/nodejs_)
 
 **Trailer:** [Tıklayın](https://www.youtube.com/watch?v=If5ZhuSykrw)
 
 
-[![nodejs dersleri](https://mehmetseven.net/content/images/2017/12/nodejs-mehmet-seven.jpg)](https://www.udemy.com/nodejs-egitimi/?couponCode=NDJS24M)
+[![nodejs dersleri](https://mehmetseven.net/content/images/2017/12/nodejs-mehmet-seven.jpg)](http://bit.ly/nodejs_)
 
 
 Node.JS'i her yönüyle öğreneceğiniz, sıfırdan başlayan bir set. Zaten setin başlığı da, "Sıfırdan Her Yönüyle Node.JS". Yani, hiç JavaScript bilmeyenler ve hatta bu güne kadar programlama ile hiç ilgilenmemiş olanlar bile yararlanabilirler.
@@ -93,9 +91,12 @@ MongoDB üzerinde çalışma yapmaya başladıktan sonra Express ve MongoDB ile 
 
 :space_invader: Live demo on heroku: [Tıklayın](https://socketio-live-balls.herokuapp.com/)
 
-[![Socket.io live balls](https://s3.amazonaws.com/mseven-general/socketio-live-balls-github-repo.jpg)](https://www.youtube.com/watch?v=x1ZURfr95qM)
+Socket.io live balls: [Tıklayın](https://www.youtube.com/watch?v=x1ZURfr95qM)
 
 
 ## Proje 3:  Socket.IO ve Redis ile Gelişmiş Chat Sistemi
 
 **Repo:** [Tıklayın](https://github.com/meseven/thechatfather)
+
+
+**Kursa Git:** [Tıklayın](http://bit.ly/nodejs_)
